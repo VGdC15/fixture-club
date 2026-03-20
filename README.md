@@ -40,7 +40,7 @@ Aplicación simple, pensada para usuarios no técnicos:
 * Generación automática de fixture
 * Apertura directa del resultado
 
-![Interfaz del programa](assets/app.png)
+![Interfaz del programa]<img src="screenshots/fixture.jpeg" width="500"/>
 
 ---
 
