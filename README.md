@@ -133,28 +133,4 @@ pip install pandas openpyxl ortools
 
 ---
 
-## 🤝 Autor
-
 Desarrollado para resolver un problema real en la organización de torneos deportivos.
-
----
-
-## 📸 Nota sobre la imagen
-
-Para que la imagen funcione correctamente en GitHub:
-
-1. Crear carpeta:
-
-```
-assets/
-```
-
-2. Guardar captura del programa como:
-
-```
-assets/app.png
-```
-
-3. Subir al repositorio junto con este README
-
----
